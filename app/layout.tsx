@@ -62,6 +62,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="scroll-smooth">
       <head>
+        <meta name="yandex-verification" content="5d2d22146dcbf5f2" />
         <meta charSet="utf-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
